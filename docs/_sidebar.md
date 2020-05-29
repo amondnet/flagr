@@ -12,3 +12,4 @@
     - [Go SDK](https://github.com/checkr/goflagr)
     - [JavaScript SDK](https://github.com/checkr/jsflagr)
     - [Python SDK](https://github.com/checkr/pyflagr)
+    - [Dart SDK](https://github.com/amondnet/flagr.dart)
